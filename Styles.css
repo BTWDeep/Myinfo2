@@ -1,0 +1,26 @@
+body {
+    background-color: #ECF9FF;
+}
+hr {
+    background: #ecf9ff;
+    border-style: none;
+    border-top-style: dotted; 
+    border-width: 15px;
+    border-color: grey;
+    width: 10%;
+}
+h1,h3 {
+    color: #93C6E7;
+}
+a:hover{
+    color: red;
+}
+
+
+
+
+/****************************************Tag-Selector****************************************/
+
+.Myphoto {
+    border-radius: 100%;
+}
